@@ -22,7 +22,7 @@
 #u11 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:-20px;
   width:375px;
   height:667px;
 }
@@ -51,7 +51,7 @@
 #u13 {
   position:absolute;
   left:7px;
-  top:107px;
+  top:87px;
   width:361px;
   height:137px;
   opacity:0;
@@ -98,7 +98,7 @@
 #u15 {
   position:absolute;
   left:7px;
-  top:248px;
+  top:228px;
   width:361px;
   height:137px;
   opacity:0;
@@ -145,7 +145,7 @@
 #u17 {
   position:absolute;
   left:7px;
-  top:389px;
+  top:369px;
   width:361px;
   height:137px;
   opacity:0;
@@ -178,7 +178,7 @@
 #u19 {
   position:absolute;
   left:325px;
-  top:23px;
+  top:3px;
   width:37px;
   height:36px;
   overflow:hidden;
